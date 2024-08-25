@@ -72,7 +72,7 @@ p {
 - ### CSS Solved a Big Problem.
   #### 1- The style definitions are normally saved in external .css files.
   #### 2- With an external stylesheet file, you can change the look of an entire website by changing just one file!
-  # >CSS Syntax :
+  # CSS Syntax 
   ### A CSS rule consists of a selector and a declaration block.
   <img src="https://www.w3schools.com/css/img_selector.gif">
   
@@ -90,7 +90,7 @@ p {
   #### p is a selector in CSS .
   ####  color is a property, and red is the property value.
   #### Text-align is a property, and center is the property value.
-  # >CSS Selectors :
+  # CSS Selectors 
   ## A CSS selector selects the HTML element(s) you want to style.
   ### We can divide CSS selectors into five categories:
   #### 1- Simple selectors (select elements based on name, id, class)
@@ -181,12 +181,12 @@ h1 {
  <img src=
  "https://i.pinimg.com/originals/ad/07/fa/ad07fab27cc455481593fe3704cdd800.png">
 
- ## CSS Background Color -
+ ## CSS Background Color 
  ### You can set the background color for HTML elements:
  <img src=
  "https://static.javatpoint.com/csspages/images/how-to-change-background-color-in-css1.png">
 
- ## CSS Border Color -
+ ## CSS Border Color 
   ### You can set the color of borders:
   <img src=
  "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/tutorial/css-borders/border-color.png">
@@ -201,7 +201,7 @@ h1 {
 ## CSS Background Image -
 ### The background-image property specifies an image to use as the background of an element.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_background-image"> You Can Try it Here >>  </a> 
-# CSS Borders -
+# CSS Borders 
 ### The CSS border properties allow you to specify the style, width, and color of an element's border.
 <img src=
  "https://www.sliderrevolution.com/wp-content/uploads/2021/05/border1.jpg">
@@ -213,7 +213,7 @@ h1 {
  "https://www.lambdatest.com/blog/wp-content/uploads/2023/02/border-should-always-be-defined-1.jpg">
 
  ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_border-style"> You Can Try it Here :  </a> 
- ## CSS Border Width -
+ # CSS Border Width 
  ### The border-width property specifies the width of the four borders.
 ### The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick:
 ### <a href="https://w3schools.com/css/tryit.asp?filename=trycss_border-width"> You Can Try it Here >>  </a>
@@ -260,7 +260,7 @@ div {
 
 ### The CSS max-width property is used to set the maximum width of an element.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_height_width_intro"> You Can Try it Here >>  </a>
-# >CSS Box Model :
+# CSS Box Model 
  - ### In CSS, the term "box model" is used when talking about design and layout. 
 - ### The CSS box model is essentially a box that wraps around every HTML element. It consists of: content, padding, borders and margins. The image below illustrates the box model.
 <img src=
@@ -300,7 +300,7 @@ div {
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_outline"> You Can Try it Here >>  </a>
 ### Offset : 
 ### <a href="https://www.w3schools.com/css/css_outline_offset.asp"> You Can Try it Here >>  </a>
-## CSS Text :
+# CSS Text 
 ### CSS has a lot of properties for formatting text.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_text"> You Can Try it Here >>  </a>
 ## CSS Text Color,Alignment,Decoration,Transformation,Spacing,Shadow :
@@ -437,7 +437,7 @@ div2 {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_layout_clear"> Try it Yourself  >>  </a>
-# >CSS Inline -Block :
+# CSS Inline-Block 
 ### Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element.
 ## Example :
 ```
@@ -476,7 +476,7 @@ span.a {
  - ### `Child selector (>)` - The child selector selects all elements that are the children of a specified element.
  - ### `Adjacent sibling selector (+)` - The adjacent sibling selector is used to select an element that is directly after another specific element. 
  - ### `General sibling selector (~)` - The general sibling selector selects all elements that are next siblings of a specified element.
-  # >CSS Opacity : 
+  # CSS Opacity 
   ### The opacity property specifies the opacity/transparency of an element.
  ## Transparent Image -
  ### The opacity property can take a value from 0.0 - 1.0. The lower the value, the more transparent.
@@ -519,7 +519,7 @@ img:hover {
  "https://www.websiterealizer.com/help/drex_how-to-create-a-horizontal-navigation-bar-from-scratch_custom.png">
 
   ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_black"> `Try it Yourself  >>`  </a>
-  # >CSS Dropdowns  :
+  # CSS Dropdowns  
    ### Create a dropdown box that appears when the user moves the mouse over an element.
    <img src="https://i.sstatic.net/g7iRI.jpg">
    
@@ -541,7 +541,7 @@ img:hover {
 </div>
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive"> `Try it Yourself  >>`  </a>
-# >CSS Image Sprites :
+# CSS Image Sprites 
  - ### An image sprite is a collection of images put into a single image.
  - ### Using image sprites will reduce the number of server requests and save bandwidth.
  <img src="https://i.sstatic.net/fu607.png">
@@ -558,7 +558,7 @@ img:hover {
  - #### `<img id="home" src="img_trans.gif">` - Only defines a small transparent image because the src attribute cannot be empty. The displayed image will be the background image we specify in CSS
  - #### `width: 46px; height: 44px;` - Defines the portion of the image we want to use
  - #### `background: url(img_navsprites.gif) 0 0;` - Defines the background image and its position (left 0px, top 0px)
-# >CSS Attribute Selectors :
+# CSS Attribute Selectors 
 ### The `[attribute] selector` is used to select elements with a specified attribute.
 
  <img src="https://miro.medium.com/v2/resize:fit:1400/0*d88xdnAWSuocM3ut.png">
@@ -620,7 +620,7 @@ input[type=text], select {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_navbar"> `Try it Yourself  >>`  </a>
-# >CSS Units :
+# CSS Units 
  ### CSS has several different units for expressing a length.
  - ### Many CSS properties take "length" values, such as width, margin, padding, font-size, etc.
 
