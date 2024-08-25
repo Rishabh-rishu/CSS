@@ -44,7 +44,7 @@
 
 
 
-# >CSS Introduction :
+# CSS Introduction 
 ## Cascading Style Sheets(CSS) is the language we use to style a Web page.
 ### What is CSS?
 - #### CSS stands for Cascading Style Sheets
