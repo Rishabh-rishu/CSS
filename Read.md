@@ -114,7 +114,7 @@ p {
   color: red;
   }
   ```
-  # >How To Add CSS :
+  # How To Add CSS 
   ## When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet.
   ## Three Ways to Insert CSS :
   ### There are three ways of inserting a style sheet:
@@ -168,14 +168,14 @@ h1 {
 
 </body>
 ```
-# >CSS Comments :
+# CSS Comments 
 ## CSS comments are not displayed in the browser, but they can help document your source code.
  <img src="
  https://www.sitesbay.com/css/images/comment.png">
  
 
 
-# >CSS Colors  :
+# CSS Colors  
 ## Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
 ## CSS color names -
  <img src=
@@ -191,7 +191,7 @@ h1 {
   <img src=
  "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/tutorial/css-borders/border-color.png">
 
- # CSS Backgrounds :
+ # CSS Backgrounds 
  ## The CSS background properties are used to add background effects for elements.
  <img src=
  "https://www.w3docs.com/uploads/media/book_gallery/0001/04/84c973ff9f2a692e53955206135efc18bbb43667.png">
@@ -217,13 +217,13 @@ h1 {
  ### The border-width property specifies the width of the four borders.
 ### The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick:
 ### <a href="https://w3schools.com/css/tryit.asp?filename=trycss_border-width"> You Can Try it Here >>  </a>
-# CSS Margins -
+# CSS Margins 
 ### Margins are used to create space around elements, outside of any defined borders.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_intro"> You Can Try it Here >> </a>
 ## Margin Collapse -
 ### Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_collapse"> You Can Try it Here >>  </a>
-# >CSS Padding -
+# CSS Padding 
 ### Padding is used to create space around an element's content, inside of any defined borders.
 ### With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_padding_sides"> You Can Try it Here >> </a>
@@ -271,7 +271,7 @@ div {
 - ### Padding - Clears an area around the content. The padding is transparent
  - ### Border - A border that goes around the padding and content
 - ### Margin - Clears an area outside the border. The margin is transparent
-# CSS Outline :
+# CSS Outline 
 ### An outline is a line drawn outside the element's border.
 
 <img src=
@@ -314,7 +314,7 @@ div {
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_text-indent"> You Can Try it Here >>  </a>
 ### Transformation :
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_text-transform"> You Can Try it Here >>  </a>
-#  >CSS Fonts -
+#  CSS Fonts 
 ### Choosing the right font for your website is important!
 ## Generic Font Families -
 ### In CSS there are five generic font families:
@@ -335,19 +335,19 @@ div {
   <img src=
  "https://www.html-seminar.de/bilder/schriftarten-sortiert.png">
   
-  # >CSS Icons :
+  # CSS Icons 
   ### Icons can easily be added to your HTML page, by using an icon library.
    <img src=
  "https://www.devwares.com/static/4a29c6f2037077124e7df812f0d32a71/63ec5/cssImage2.png">
 
   ## How to add Icons :
   ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_icons_fa"> You Can Try it Here >>  </a>
-  # CSS Links :
+  # CSS Links 
   ### With CSS, links can be styled in many different ways.
    <img src=
  "https://www.munnelly.com/webdesign/exercises/assets/img/hyperlinks-styles/link-states-active.png">
   ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_link"> You Can Try it Here >>  </a>
-  # CSS Links :
+  # CSS Lists
   ### Lists are used to display a collection of items.Lists are a fundamental part of HTML and can be styled in various ways using CSS to enhance their appearance and functionality. 
  ## Types of Lists in HTML :
  ### 1- Unordered Lists .
@@ -355,7 +355,7 @@ div {
  ## Example of both lists :
  ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_list-style-type_ex"> You Can Try it Here >>  </a>
  
- # CSS Tables :
+ # CSS Tables 
  ### The look of an HTML table can be greatly improved with CSS:
  <img src=
  "https://wpdean.com/wp-content/uploads/2023/11/image-2023-11-01T124836.640.jpg">
@@ -408,7 +408,7 @@ div.ex2 {
   border: 3px solid #73AD21;
 }
  ```
- # >CSS   Overflow :
+ # CSS Overflow 
  ### The CSS overflow property controls what happens to content that is too big to fit into an area.
   ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_overflow_intro"> Try it Yourself  >>  </a>
   # >CSS Layout - float and clear :
@@ -469,7 +469,7 @@ span.a {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_nav"> Try it Yourself  >>  </a>
-# >CSS Combinators :
+# CSS Combinators 
 ### A combinator is something that explains the relationship between the selectors.
 ## There are four different combinators in CSS:
  - ### `Descendant selector (space)` - The descendant selector matches all elements that are descendants of a specified element.
@@ -494,7 +494,7 @@ img:hover {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency2"> `Try it Yourself  >>`  </a>
-# CSS Navigation Bar :
+# CSS Navigation Bar 
  - ### Having easy-to-use navigation is important for any web site.
  - ### With CSS you can transform boring HTML menus into good-looking navigation bars.
  ## Example :
@@ -527,7 +527,7 @@ img:hover {
 ## Dropdown Navbar -
  ### How to add a `dropdown` menu inside a navigation bar-
  ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_navbar2"> `Try it Yourself  >>`  </a>
-# >CSS Image Gallery :
+# CSS Image Gallery 
 ### CSS can be used to create an image gallery.
 <img src="https://www.codingnepalweb.com/wp-content/uploads/2023/05/Filterable-Image-Gallery-in-HTML-CSS-Bootstrap-JavaScript.jpg">
 
@@ -570,7 +570,7 @@ img:hover {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_sel_attribute_hyphen"> `Try it Yourself  >>`  </a>
-# >CSS Forms :
+# CSS Forms 
 ### The look of an HTML form can be greatly improved with CSS.
 <img src="https://i.ytimg.com/vi/okbByPWS1Xc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCkj5Mg7P7u5iZR-VM-Zh_j_yGYA">
 
@@ -588,7 +588,7 @@ input[type=text], select {
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_forms"> `Try it Yourself  >>`  </a>
 
-# >CSS Website Layout :
+# CSS Website Layout 
 ### A website is often divided into headers, menus, content and a footer.
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*ia4V5qfk6Ki3iWIn-SmErw.png">
 
@@ -640,7 +640,7 @@ p {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_units_px"> `Try it Yourself  >>`  </a>
-## >CSS The !important Rule  :
+## CSS The !important Rule  
  ### The `!important` rule in CSS is used to add more importance to a property/value than normal.
 ### In fact, if you use the `!important rule`, it will override ALL previous styling rules for that specific property on that element!.
 ## Example :
@@ -660,7 +660,7 @@ p {
 ## Example Explained :
 ### In the example above. all three paragraphs will get a red background color, even though the ID selector and the class selector have a higher specificity. The `!important rule` overrides the `background-color` property in both cases.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_important"> `Try it Yourself  >>`  </a>
-# > CSS Math Functions :
+# CSS Math Functions 
 ### The CSS math functions allow mathematical expressions to be used as property values. Here, we will explain the `calc()`, `max()` and `min()` functions.
 ## The calc() Function -
 ### The `calc() function` performs a calculation to be used as the property value.
