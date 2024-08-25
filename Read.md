@@ -2,45 +2,41 @@
 
 <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg">
 
-## Table of Content 
-- ## CSS Introduction
-- ## CSS Syntax
-- ## CSS Selectors
-- ## How To Add CSS
-- ## CSS Comments
-- ## CSS Colors
-- ## CSS Backgrounds
-- ## CSS Borders
-- ## CSS Margins
-- ## CSS Padding
-- ## CSS Height/Width
-- ## CSS Box Model
-- ## CSS Outline
-- ## CSS Text
-- ## CSS Fonts
-- ## CSS Icons
-- ## CSS Links
-- ## CSS Lists
-- ## CSS Tables
-- ## CSS Display
-- ## CSS Max-width
-- ## CSS Overflow
-- ## CSS Float  
-- ## CSS Inline-block
-- ## CSS Combinators
-- ## CSS Opacity
-- ## CSS Navigation Bar 
-- ## CSS Dropdowns 
-- ## CSS Image Gallery
-- ## CSS Image Sprites
-- ## CSS Attr Selectors
-- ## CSS Forms
-- ## CSS Website Layout
-- ## CSS Units
-- ## CSS Specificity
-- ## CSS !important
-- ## CSS Math Functions
-- 
+## Table of Contents
+
+- [CSS Introduction](#css-introduction)
+- [CSS Syntax](#css-syntax)
+- [CSS Selectors](#css-selectors)
+- [How To Add CSS](#how-to-add-css)
+- [CSS Comments](#css-comments)
+- [CSS Colors](#css-colors)
+- [CSS Backgrounds](#css-backgrounds)
+- [CSS Borders](#css-borders)
+- [CSS Margins](#css-margins)
+- [CSS Padding](#css-padding)
+- [CSS Height/Width](#css-heightwidth)
+- [CSS Box Model](#css-box-model)
+- [CSS Outline](#css-outline)
+- [CSS Text](#css-text)
+- [CSS Fonts](#css-fonts)
+- [CSS Icons](#css-icons)
+- [CSS Links](#css-links)
+- [CSS Lists](#css-lists)
+- [CSS Tables](#css-tables)
+- [CSS Display](#css-display)
+- [CSS Max-width](#css-max-width)
+- [CSS Overflow](#css-overflow)
+- [CSS Float](#css-float)
+- [CSS Inline-block](#css-inline-block)
+- [CSS Combinators](#css-combinators)
+- [CSS Opacity](#css-opacity)
+- [CSS Navigation Bar](#css-navigation-bar)
+- [CSS Dropdowns](#css-dropdowns)
+- [CSS Image Gallery](#css-image-gallery)
+- [CSS Image Sprites](#css-image-sprites)
+- [CSS Attribute Select
+
+
 
 # >CSS Introduction :
 ## Cascading Style Sheets(CSS) is the language we use to style a Web page.
