@@ -23,12 +23,11 @@
 - [CSS Links](#css-links)
 - [CSS Lists](#css-lists)
 - [CSS Tables](#css-tables)
-- [CSS Display](#css-display)
+- [CSS Display Property](#css-display)
 - [CSS Max-width](#css-max-width)
 - [CSS Overflow](#css-overflow)
 - [CSS Float](#css-float)
 - [CSS Inline-block](#css-inline-block)
-- [CSS Combinators](#css-combinators)
 - [CSS Opacity](#css-opacity)
 - [CSS Navigation Bar](#css-navigation-bar)
 - [CSS Dropdowns](#css-dropdowns)
@@ -255,7 +254,7 @@ div {
 <img src=
  "https://www.bitdegree.org/learn/storage/media/images/css-padding.o.png">
 
-## CSS Height, Width and Max-width -
+# CSS Height/Width 
  ### The CSS height and width properties are used to set the height and width of an element.
 
 ### The CSS max-width property is used to set the maximum width of an element.
@@ -381,7 +380,7 @@ div {
  "https://shots.codepen.io/username/pen/yaLRjd-800.jpg?version=1485045257">
  ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_table_responsive"> You Can Try it Here >>  </a>
 
- ## CSS Layout - The display Property :
+# CSS Display Property
  - ### The display property is used to specify how an element is shown on a web page.
 - ### Every HTML element has a default display value, depending on what type of element it is. The default display value for most elements is block or inline.
 ## Block-level Elements -
@@ -469,13 +468,6 @@ span.a {
 }
 ```
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_nav"> Try it Yourself  >>  </a>
-# CSS Combinators 
-### A combinator is something that explains the relationship between the selectors.
-## There are four different combinators in CSS:
- - ### `Descendant selector (space)` - The descendant selector matches all elements that are descendants of a specified element.
- - ### `Child selector (>)` - The child selector selects all elements that are the children of a specified element.
- - ### `Adjacent sibling selector (+)` - The adjacent sibling selector is used to select an element that is directly after another specific element. 
- - ### `General sibling selector (~)` - The general sibling selector selects all elements that are next siblings of a specified element.
   # CSS Opacity 
   ### The opacity property specifies the opacity/transparency of an element.
  ## Transparent Image -
