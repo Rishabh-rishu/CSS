@@ -6,7 +6,6 @@
 
 - [CSS Introduction](#css-introduction)
 - [CSS Syntax](#css-syntax)
-- [CSS Selectors](#css-selectors)
 - [How To Add CSS](#how-to-add-css)
 - [CSS Comments](#css-comments)
 - [CSS Colors](#css-colors)
@@ -89,30 +88,6 @@ p {
   #### p is a selector in CSS .
   ####  color is a property, and red is the property value.
   #### Text-align is a property, and center is the property value.
-  # CSS Selectors 
-  ## A CSS selector selects the HTML element(s) you want to style.
-  ### We can divide CSS selectors into five categories:
-  #### 1- Simple selectors (select elements based on name, id, class)
-  #### 2- Combinator selectors (select elements based on a specific relationship between them)
-   #### 3- Pseudo-class selectors (select elements based on a certain state)
-  #### 4- Pseudo-elements selectors (select and style a part of an element)
-  #### 5- Attribute selectors (select elements based on an attribute or attribute value)
-   - ##  Example of CSS element Selector.
-   ```
-   p {
-  text-align: center;
-  color: red;
-  }
-  ```
-  - ## The CSS id Selector -
-   ### The id selector uses the id attribute of an HTML element to select a specific element.
-   ## Example :
-   ```
-   #para1 {
-  text-align: center;
-  color: red;
-  }
-  ```
   # How To Add CSS 
   ## When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet.
   ## Three Ways to Insert CSS :
