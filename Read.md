@@ -38,7 +38,6 @@
 - [CSS Units](#css-units)
 - [CSS Specificity](#css-specificity)
 - [CSS !important](#css-important)
-- [CSS Math Functions](#css-math-functions)
 
 
 
@@ -627,19 +626,6 @@ p {
 ## Example Explained :
 ### In the example above. all three paragraphs will get a red background color, even though the ID selector and the class selector have a higher specificity. The `!important rule` overrides the `background-color` property in both cases.
 ### <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_important"> `Try it Yourself  >>`  </a>
-# CSS Math Functions 
-### The CSS math functions allow mathematical expressions to be used as property values. Here, we will explain the `calc()`, `max()` and `min()` functions.
-## The calc() Function -
-### The `calc() function` performs a calculation to be used as the property value.
-<img src="https://www.i2tutorials.com/wp-content/media/2020/12/calc.jpg">
-
-## The max() Function -
-### The `max() function` uses the largest value, from a comma-separated list of values, as the property value.
-<img src="https://assets.htmlgoodies.com/uploads/2022/03/CSS-max-function.jpg">
-
-## The min() Function -
-### The `min() function` uses the smallest value, from a comma-separated list of values, as the property value.
-<img src="https://i.ytimg.com/vi/CbIt7nWW58s/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLA0oVUMJ9f9pkFtCKIg6APveHD7cw">
 
 ## Reference Link :
 ## <a href="https://www.w3schools.com/css/default.asp"> `Link  >>`  </a>
